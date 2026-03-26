@@ -4,7 +4,7 @@ Transformă o tabletă veche într-un server cloud personal (NAS), accesibil de 
 ## Hardware : 
 **Dispozitiv:** Lenovo Tab M10 HD Gen2 cu Ubuntu Touch (acest sistem de operare a fost compatibil cu acest model de tabletă conform site-ului Ubuntu Ports) 
 
-**Stocare:** SSD NVME 1TB;
+**Stocare:** SSD NVME 512GB;
 
 **Conectivitate:**
 
